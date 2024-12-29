@@ -1,0 +1,124 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Galletas"
+    },
+    {
+      "id": "2",
+      "nombre": "Fideos"
+    },
+    {
+      "id": "3",
+      "nombre": "Mates"
+    },
+    {
+      "id": "4",
+      "nombre": "Panetones"
+    },
+    {
+      "id": "5",
+      "nombre": "Varios"
+    }
+  ],
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Galleta Chocolate",
+      "precio": 120,
+      "stock": 50,
+      "categoriaId": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Galleta de Avena",
+      "precio": 90,
+      "stock": 30,
+      "categoriaId": "1"
+    },
+    {
+      "id": "3",
+      "nombre": "Galleta de Mantequilla",
+      "precio": 101,
+      "stock": 40,
+      "categoriaId": "1"
+    },
+    {
+      "id": "4",
+      "nombre": "Fideos Spaghetti",
+      "precio": 85,
+      "stock": 100,
+      "categoriaId": "2"
+    },
+    {
+      "id": "5",
+      "nombre": "Fideos Fusilli",
+      "precio": 95,
+      "stock": 80,
+      "categoriaId": "2"
+    },
+    {
+      "id": "6",
+      "nombre": "Fideos Linguine",
+      "precio": 110,
+      "stock": 60,
+      "categoriaId": "2"
+    },
+    {
+      "id": "7",
+      "nombre": "Mate Tradicional",
+      "precio": 150,
+      "stock": 25,
+      "categoriaId": "3"
+    },
+    {
+      "id": "8",
+      "nombre": "Mate con Hierbas",
+      "precio": 170,
+      "stock": 20,
+      "categoriaId": "3"
+    },
+    {
+      "id": "9",
+      "nombre": "Mate Orgánico",
+      "precio": 200,
+      "stock": 15,
+      "categoriaId": "3"
+    },
+    {
+      "id": "10",
+      "nombre": "Panetón de Frutas",
+      "precio": 300,
+      "stock": 10,
+      "categoriaId": "4"
+    },
+    {
+      "id": "11",
+      "nombre": "Panetón de Chocolate",
+      "precio": 350,
+      "stock": 5,
+      "categoriaId": "4"
+    },
+    {
+      "id": "12",
+      "nombre": "Panetón Clásico",
+      "precio": 320,
+      "stock": 8,
+      "categoriaId": "4"
+    },
+    {
+      "id": "13",
+      "nombre": "Caja Surtida de Galletas",
+      "precio": 400,
+      "stock": 20,
+      "categoriaId": "5"
+    },
+    {
+      "id": "14",
+      "nombre": "Paquete de Té",
+      "precio": 180,
+      "stock": 50,
+      "categoriaId": "5"
+    }
+  ]
+}
